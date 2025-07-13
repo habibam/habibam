@@ -9,7 +9,7 @@ My website 🔥 <a href="https://www.habibamohamed.com">www.habibamohamed.com</a
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/habibamohamed) [![MLops.community Slack](https://img.shields.io/badge/MLOps.Community-23ffa116?&style=flat-square&logo=slack&logoColor=white)](https://mlops-community.slack.com/team/U038CKDA738) [![Rands.Leadership.Slack Slack](https://img.shields.io/badge/Rands.Leadership.Slack-%23ffa116?&style=flat-square&logo=slack&logoColor=white)](https://rands-leadership.slack.com/team/U07AKCMSJUT) [![Write.Speak.Code Slack](https://img.shields.io/badge/Write.Speak.Code-C92B80?&style=flat-square&logo=slack&logoColor=white)](https://wsccommunity.slack.com/team/UGZA7NPEK) [![BentoML Slack](https://img.shields.io/badge/BentoML.Community-%23afa116?&style=flat-square&logo=slack&logoColor=white)](https://bentoml.slack.com/team/U02MBFM7P7Y)
 
 
-# Tools I've Worked With
+# Tools I've worked with
 
 
 [![Languages](https://img.shields.io/badge/-Languages/Frameworks-0D1117?style=flat-square)]()[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
